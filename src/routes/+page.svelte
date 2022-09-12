@@ -97,28 +97,28 @@
         <li>
           <em>C# 10 in a nutshell</em> (<Link
             external
-            to="/assets/pdf/CS_252r_Notes_PL_Studio.pdf">Link</Link
+            to="https://www.google.com/search?client=firefox-b-d&q=c%23+10+in+a+nutshell">Link</Link
           >)
         </li>
         <li>
           <em>C# notes for professionals</em> (<Link
             external
-            to="/assets/pdf/Hydroelastics.pdf">Link</Link
+            to="https://www.computer-pdf.com/programming/csharp/820-tutorial-c-notes-for-professionals-book.html">Link</Link
           >)
         </li>
         <li>
           <em>C# Programming Yellow Book</em> (<Link
             external
-            to="/assets/pdf/Stat_211_Notes.pdf">Link</Link
+            to="https://www.google.com/search?q=C%23+Programming+Yellow+Book&client=firefox-b-d&sxsrf=ALiCzsYeRNk1EXP3QNlkvkJVmqx3GCg3Cg%3A1663026373251&ei=xcQfY4n3DuznkvQP7N6LwAw&ved=0ahUKEwjJ7eqBuJD6AhXss4QIHWzvAsgQ4dUDCA4&uact=5&oq=C%23+Programming+Yellow+Book&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEIAEMgUILhCABDIGCAAQHhAWOgoIABBHENYEELADOgcIABCwAxBDSgQIQRgASgQIRhgAUPMCWPMCYI4IaAJwAXgAgAF-iAF-kgEDMC4xmAEAoAECoAEByAEJwAEB&sclient=gws-wiz">Link</Link
           >)
         </li>
         <li><em>Introduction to Algorithms</em> (<Link
           external
-          to="/assets/pdf/Stat_211_Notes.pdf">Link</Link
+          to="https://www.google.com/search?q=Introduction+to+Algorithms&client=firefox-b-d&sxsrf=ALiCzsYk6V-k-0ZNE4CsrmvQjbf3vREYkw%3A1663026403144&ei=48QfY_erCKWZwbkPpMm3-AQ&ved=0ahUKEwi3qYuQuJD6AhWlTDABHaTkDU8Q4dUDCA4&uact=5&oq=Introduction+to+Algorithms&gs_lcp=Cgdnd3Mtd2l6EAMyBQguEIAEMgUIABCABDIFCAAQgAQyBQguEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQhgMyBQgAEIYDOgoIABBHENYEELADOgcIABCwAxBDSgQIQRgASgQIRhgAULIDWLIDYJMJaANwAXgAgAGzAYgBswGSAQMwLjGYAQCgAQKgAQHIAQnAAQE&sclient=gws-wiz">Link</Link
         >)</li>
         <li><em>JavaScript and jQuery: Interactive Front-End Web Development</em> (<Link
           external
-          to="/assets/pdf/Stat_211_Notes.pdf">Link</Link
+          to="https://www.google.com/search?q=JavaScript+and+jQuery%3A+Interactive+Front-End+Web+Development&client=firefox-b-d&sxsrf=ALiCzsYgPdS4bzoDfSz4vKH2jSFB-2nz9w%3A1663026422552&ei=9sQfY8qdIeCQwbkP57aGgAQ&ved=0ahUKEwjK8KuZuJD6AhVgSDABHWebAUAQ4dUDCA4&uact=5&oq=JavaScript+and+jQuery%3A+Interactive+Front-End+Web+Development&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyBQgAEIAEMgUILhCABDIKCAAQgAQQhwIQFDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIYDMgUIABCGAzoKCAAQRxDWBBCwAzoHCAAQsAMQQzoNCAAQ5AIQ1gQQsAMYAToMCC4QyAMQsAMQQxgCSgQIQRgASgQIRhgBULUDWLUDYOgJaANwAXgAgAF9iAF9kgEDMC4xmAEAoAECoAEByAETwAEB2gEGCAEQARgJ2gEGCAIQARgI&sclient=gws-wiz">Link</Link
         >)</li>
       </ul>
 
