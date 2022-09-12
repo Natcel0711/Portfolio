@@ -66,9 +66,9 @@
     </section>
     <section class="col-span-3 sm:col-span-1">
       <img
-        class="img-fluid"
+        class="img-fluid h-72"
         alt="Natcel Nieves Arce"
-        src="\images\106360899.jpg"
+        src="https://avatars.githubusercontent.com/u/106360899?v=4"
       />
     </section>
   </div>
