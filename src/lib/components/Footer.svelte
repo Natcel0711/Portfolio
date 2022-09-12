@@ -11,31 +11,13 @@
     const links = [
       {
         name: "GitHub",
-        href: "https://github.com/ekzhang",
+        href: "https://github.com/Natcel0711",
         icon: faGithub,
         color: "#24292e",
       },
       {
-        name: "Twitter",
-        href: "https://twitter.com/ekzhang1",
-        icon: faTwitter,
-        color: "#00acee",
-      },
-      {
-        name: "Facebook",
-        href: "https://fb.me/ekzhang",
-        icon: faFacebook,
-        color: "#3b5998",
-      },
-      {
-        name: "Quora",
-        href: "https://www.quora.com/profile/Eric-Zhang-99",
-        icon: faQuora,
-        color: "#aa2200",
-      },
-      {
         name: "Mail",
-        href: "mailto:ekzhang1@gmail.com",
+        href: "mailto:natcelnieves@gmail.com",
         icon: faEnvelope,
         color: "#333",
       },
@@ -54,7 +36,4 @@
         </a>
       {/each}
     </div>
-    <p class="text-center text-gray-400 font-light">
-      Made by Natcel.
-    </p>
   </footer>
