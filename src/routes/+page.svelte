@@ -22,7 +22,7 @@
       <p>
         I am a software developer with extensive experience in web development
         using tools like Blazor Server (C#, JavaScript), Svelte Kit (JavaScript,
-        TypeScript), developing scripts (python, C#) and some low level programming with C. All my projects
+        TypeScript), developing scripts (Python, C#) and some low level programming with C. All my projects
         are on github and among these include projects like:
       </p>
       <ul>
