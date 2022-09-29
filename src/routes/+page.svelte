@@ -22,46 +22,50 @@
       <p>
         I am a software developer with extensive experience in web development
         using tools like Blazor Server (C#, JavaScript), Svelte Kit (JavaScript,
-        TypeScript) and developing scripts using Python and C#. All my projects
-        are hosted on github and among these include:
+        TypeScript), developing scripts (python, C#) and some low level programming with C. All my projects
+        are on github and among these include projects like:
       </p>
       <ul>
         <li>
           <Link to="https://github.com/Natcel0711/Ecommercecsharp"
-            ><strong>Blazor Ecommmerce Store</strong></Link
-          >, ecommerce store made in Blazor Server.
+            ><strong>Ecommmerce Stores</strong></Link
+          >, ecommerce stores made in Blazor and Svelte Kit.
         </li>
         <li>
           <Link to="https://github.com/Natcel0711/SvelteTailwind-Ecommerce"
-            ><strong>Svelte Kit Ecommerce Store</strong></Link
-          >, ecommerce store made in Svelte.
+            ><strong>Scrapers</strong></Link
+          >, scrapers for Luma outage reports and google images.
         </li>
         <li>
           <Link to="https://github.com/Natcel0711/AutoMover"
-            ><strong>Python file organizer</strong></Link
-          >, automatic file organizer script.
+            ><strong>CRUD organizer</strong></Link
+          >, automatic file organizer script in python.
         </li>
         <li>
           <Link to="https://github.com/Natcel0711/CsharpImageScraper"
-            ><strong>C# google image scraper</strong></Link
-          >, scrape images from google using this script.
+            ><strong>APIs</strong></Link
+          >, APIs that serves data from the Luma outages reports in Json format.
         </li>
         <li>
           <Link to="https://github.com/Natcel0711/blazor"><strong>CRUD Apps</strong></Link>,
-          crud app made in Blazor and Svelte.
+          crud apps made in Blazor and Svelte.
         </li>
       </ul>
       <p>
         I currently live in Aguadilla where I studied in the University of
         Puerto Rico from Aguadilla with a bachelor's degree in Business
-        Administration with a concentration in Computerized Systems and couple of classes in finance.
+        Administration with a concentration in Computerized Systems and couple 
+        of classes in finance and electronics. At the UPR of Aguadilla I took all 
+        the programming classes which included some Java and mostly C#.
       </p>
       <p>
-        At UPR I was distinguished student in the required and optional
-        programming classes as I always had a lot of interest in software
-        developing in general. Even after finishing all the assignments I would
-        still be working on my skills by making personal projects and reading
-        books.
+        For the majority of the day I work full time writing code in C# and JavaScript 
+        but in my spare time I enjoy working with Python making quick scripts for 
+        scraping data or making simple APIs that don't need much boilerplate. I use 
+        JavaScript/TypeScript for any ideas on web apps, usually if I want to make a UI 
+        for my APIs or just to have fun with Svelte. Currently trying to make my way 
+        into low level programming by learning C and doing some embedded programming. 
+        And if I'm not coding, I'm at the gym.
       </p>
     </section>
     <section class="col-span-3 sm:col-span-1">
@@ -77,22 +81,22 @@
     <section class="col-span-2 md:col-span-1 space-y-2">
       <h2 class="text-2xl font-serif">Work Experience</h2>
       <p>
-        I currently work a .Net developer in the insurance industry, mainly doing web developing using frameworks like Blazor Server, ASP.NET and creating APIs.
+        I currently work as a full time programmer making 
+        full stack web apps using frameworks like Blazor server, 
+        ASP.NET MVC with JavaScript + JQuery, Entity framework, 
+        Dapper, ASP Web APIs and SQL Server.
       </p>
       <p>
-        I have written programs with multiple tools and languages for the company I work at to solve various problems and needs the employees have, some of these include:
-      </p>
-      <p>
-        Additionally in my spare time I write hobby applications with python and JavaScript/TypeScript. Some of these include web apps (Svelte), API's (FastAPI), web scrapers (Selenium, beautiful soup, puppeteer), etc. 
-      </p>
-      <p>
-        Every day I am learning new things about development, frameworks, tools that make me a better programmer and a better asset whenever I need to be.  
+        My job consists of solving bugs and engineering any tools 
+        my company is in need of like automating proccesses, generating 
+        reports, CRUD apps, APIs and full fledge web apps with 
+        authorization, payment gateway and additional web services.
       </p>
     </section>
     <section class="col-span-2 md:col-span-1 space-y-2">
       <h2 class="text-2xl font-serif">Courses and books</h2>
 
-      <h3 class="text-xl">Finished books</h3>
+      <h3 class="text-xl">Books</h3>
       <ul>
         <li>
           <em>C# 10 in a nutshell</em> (<Link
