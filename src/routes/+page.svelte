@@ -84,8 +84,21 @@
         I currently work as a full time programmer making 
         full stack web apps using frameworks like Blazor server, 
         ASP.NET MVC with JavaScript + JQuery, Entity framework, 
-        Dapper, ASP Web APIs and SQL Server.
+        Dapper, ASP Web APIs and SQL Server. Among the things I've done include:
       </p>
+      <ul>
+        <li>
+          <strong>Blazor Server</strong>, database first project using EF, JavaScript, CRUD, MS Office interop, Payment Gateway, email, authentification and SQL Server.
+        </li>
+        <li>
+          <strong>ASP.NET</strong>
+          , CRUD projects with JavaScript, JQuery, EF, MS Office interop and SQL Server
+        </li>
+        <li>
+          <strong>ASP.NET Web API</strong>
+          , API using EF, MS Office interop, JavaScript, Json, JQuery
+        </li>
+      </ul>
       <p>
         My job consists of solving bugs and engineering any tools 
         my company is in need of like automating proccesses, generating 
@@ -114,6 +127,12 @@
           <em>C# Programming Yellow Book</em> (<Link
             external
             to="https://www.google.com/search?q=C%23+Programming+Yellow+Book&client=firefox-b-d&sxsrf=ALiCzsYeRNk1EXP3QNlkvkJVmqx3GCg3Cg%3A1663026373251&ei=xcQfY4n3DuznkvQP7N6LwAw&ved=0ahUKEwjJ7eqBuJD6AhXss4QIHWzvAsgQ4dUDCA4&uact=5&oq=C%23+Programming+Yellow+Book&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEIAEMgUILhCABDIGCAAQHhAWOgoIABBHENYEELADOgcIABCwAxBDSgQIQRgASgQIRhgAUPMCWPMCYI4IaAJwAXgAgAF-iAF-kgEDMC4xmAEAoAECoAEByAEJwAEB&sclient=gws-wiz">Link</Link
+          >)
+        </li>
+        <li>
+          <em>Effective C An Introduction to Professional C Programming</em> (<Link
+            external
+            to="https://nostarch.com/Effective_C">Link</Link
           >)
         </li>
         <li><em>Introduction to Algorithms</em> (<Link
