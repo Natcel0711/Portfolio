@@ -19,46 +19,51 @@
   <h2 class="text-3xl font-serif mb-2">About</h2>
   <div class="grid grid-cols-3 gap-4 lg:gap-6 mb-4">
     <section class="col-span-3 sm:col-span-2 space-y-2">
-        <p>I am a full-stack programmer with extensive experience developing in the .Net environment.
-          I enjoy making software that makes problems a little easier 
-        </p> 
+      <p>
+        I am a software developer with extensive experience in web development
+        using tools like Blazor Server (C#, JavaScript), Svelte Kit (JavaScript,
+        TypeScript) and developing scripts using Python and C#. All my projects
+        are hosted on github and among these include:
+      </p>
       <ul>
         <li>
           <Link to="https://github.com/Natcel0711/Ecommercecsharp"
-            ><strong>Blazor Ecommmerce Store</strong></Link
-          >, ecommerce store made in Blazor Server.
+            ><strong>Ecommmerce Stores</strong></Link
+          >, ecommerce stores made in Blazor and Svelte Kit.
         </li>
         <li>
-          <Link to="https://github.com/Natcel0711/TSKitStore"
+          <Link to="https://github.com/Natcel0711/SvelteTailwind-Ecommerce"
             ><strong>Svelte Kit Ecommerce Store</strong></Link
           >, ecommerce store made in Svelte.
         </li>
         <li>
-          <Link to="https://github.com/Natcel0711/Apagon"
-            ><strong>Apagón</strong></Link
-          >, Scraper for the Luma outage map and API for json response.
+          <Link to="https://github.com/Natcel0711/AutoMover"
+            ><strong>Python file organizer</strong></Link
+          >, automatic file organizer script.
         </li>
         <li>
           <Link to="https://github.com/Natcel0711/CsharpImageScraper"
-            ><strong>C# google image scraper</strong></Link
-          >, scrape images from google using this script.
+            ><strong>APIs</strong></Link
+          >, APIs that serves data from the Luma outages reports in Json format.
         </li>
         <li>
           <Link to="https://github.com/Natcel0711/blazor"><strong>CRUD Apps</strong></Link>,
-          crud app made in Blazor and Svelte.
+          crud apps made in Blazor and Svelte.
         </li>
       </ul>
       <p>
         I currently live in Aguadilla where I studied in the University of
-        Puerto Rico with a bachelor's degree in Business
+        Puerto Rico from Aguadilla with a bachelor's degree in Business
         Administration with a concentration in Computerized Systems and couple of classes in finance.
       </p>
       <p>
-        At UPR I was distinguished student in the required and optional
-        programming classes as I always had a lot of interest in software
-        developing in general. Even after finishing all the assignments I would
-        still be working on my skills by making personal projects and reading
-        books.
+        For the majority of the day I work full time writing code in C# and JavaScript 
+        but in my spare time I enjoy working with Python making quick scripts for 
+        scraping data or making simple APIs that don't need much boilerplate. I use 
+        JavaScript/TypeScript for any ideas on web apps, usually if I want to make a UI 
+        for my APIs or just to have fun with Svelte. Currently trying to make my way 
+        into low level programming by learning C and doing some embedded programming. 
+        And if I'm not coding, I'm at the gym.
       </p>
     </section>
     <section class="col-span-3 sm:col-span-1">
@@ -74,22 +79,35 @@
     <section class="col-span-2 md:col-span-1 space-y-2">
       <h2 class="text-2xl font-serif">Work Experience</h2>
       <p>
-        I currently work as .Net developer in the insurance industry, mainly doing web development using frameworks like Blazor Server, ASP.NET and APIs.
-      </p>
-      <p>
-        Additionally in my spare time I write hobby applications with python and JavaScript/TypeScript. Some of these include: 
+        I currently work a .Net developer in the insurance industry, mainly doing web developing using frameworks like Blazor Server, ASP.NET and creating APIs.
       </p>
       <ul>
-        <li><strong>Scrapers</strong> (Python, JavaScript/TypeScript, C#)</li>
-        <li><strong>Web apps</strong> (JavaScript/TypeScript, C#)</li>
-        <li><strong>APIs</strong> (Python, C#)</li>
+        <li>
+          <strong>Blazor Server</strong>, database first project using EF, JavaScript, CRUD, MS Office interop, Payment Gateway, email, authentification and SQL Server.
+        </li>
+        <li>
+          <strong>ASP.NET</strong>
+          , CRUD projects with JavaScript, JQuery, EF, MS Office interop and SQL Server
+        </li>
+        <li>
+          <strong>ASP.NET Web API</strong>
+          , API using EF, MS Office interop, JavaScript, Json, JQuery
+        </li>
       </ul>
-      <p>Whenever I'm not writing code I like to read about different types of subjects like Data Structures and Algorithms, design patterns, best practices and more.</p>
+      <p>
+        I have written programs with multiple tools and languages for the company I work at to solve various problems and needs the employees have, some of these include:
+      </p>
+      <p>
+        Additionally in my spare time I write hobby applications with python and JavaScript/TypeScript. Some of these include web apps (Svelte), API's (FastAPI), web scrapers (Selenium, beautiful soup, puppeteer), etc. 
+      </p>
+      <p>
+        Every day I am learning new things about development, frameworks, tools that make me a better programmer and a better asset whenever I need to be.  
+      </p>
     </section>
     <section class="col-span-2 md:col-span-1 space-y-2">
       <h2 class="text-2xl font-serif">Courses and books</h2>
 
-      <h3 class="text-xl">Finished books</h3>
+      <h3 class="text-xl">Books</h3>
       <ul>
         <li>
           <em>C# 10 in a nutshell</em> (<Link
@@ -107,6 +125,12 @@
           <em>C# Programming Yellow Book</em> (<Link
             external
             to="https://www.google.com/search?q=C%23+Programming+Yellow+Book&client=firefox-b-d&sxsrf=ALiCzsYeRNk1EXP3QNlkvkJVmqx3GCg3Cg%3A1663026373251&ei=xcQfY4n3DuznkvQP7N6LwAw&ved=0ahUKEwjJ7eqBuJD6AhXss4QIHWzvAsgQ4dUDCA4&uact=5&oq=C%23+Programming+Yellow+Book&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEIAEMgUILhCABDIGCAAQHhAWOgoIABBHENYEELADOgcIABCwAxBDSgQIQRgASgQIRhgAUPMCWPMCYI4IaAJwAXgAgAF-iAF-kgEDMC4xmAEAoAECoAEByAEJwAEB&sclient=gws-wiz">Link</Link
+          >)
+        </li>
+        <li>
+          <em>Effective C An Introduction to Professional C Programming</em> (<Link
+            external
+            to="https://nostarch.com/Effective_C">Link</Link
           >)
         </li>
         <li><em>Introduction to Algorithms</em> (<Link
