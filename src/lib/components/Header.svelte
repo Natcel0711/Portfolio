@@ -2,7 +2,8 @@
     import { page } from "$app/stores";
   
     const links = [
-      { name: "Home", href: "/" }
+      { name: "Home", href: "/" },
+      { name: "Projects", href: "/projects" },
     ];
   </script>
   
