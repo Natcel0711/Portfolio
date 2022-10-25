@@ -62,8 +62,7 @@
         scraping data or making simple APIs that don't need much boilerplate. I use 
         JavaScript/TypeScript for any ideas on web apps, usually if I want to make a UI 
         for my APIs or just to have fun with Svelte. Currently trying to make my way 
-        into low level programming by learning C and doing some embedded programming. 
-        And if I'm not coding, I'm at the gym.
+        into low level programming by learning C and doing some embedded programming.
       </p>
     </section>
     <section class="col-span-3 sm:col-span-1">
@@ -94,9 +93,6 @@
           , API using EF, MS Office interop, JavaScript, Json, JQuery
         </li>
       </ul>
-      <p>
-        I have written programs with multiple tools and languages for the company I work at to solve various problems and needs the employees have, some of these include:
-      </p>
       <p>
         Additionally in my spare time I write hobby applications with python and JavaScript/TypeScript. Some of these include web apps (Svelte), API's (FastAPI), web scrapers (Selenium, beautiful soup, puppeteer), etc. 
       </p>
