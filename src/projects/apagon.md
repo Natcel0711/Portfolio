@@ -7,6 +7,6 @@ lead: Apagon.
 image: apagon.png
 ---
 
-`Apagon` is a web scraper for the luma outages map, including and API that feeds a json of thos outages.
+`Apagon` is a web scraper for the luma outages map, including and API that feeds a json of those outages.
 
 **Links: [GitHub](https://github.com/Natcel0711/Apagon)**
