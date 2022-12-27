@@ -61,8 +61,8 @@
         but in my spare time I enjoy working with Python making quick scripts for 
         scraping data or making simple APIs that don't need much boilerplate. I use 
         JavaScript/TypeScript for any ideas on web apps, usually if I want to make a UI 
-        for my APIs or just to have fun with Svelte. Currently trying to make my way 
-        into low level programming by learning C and doing some embedded programming.
+        for my APIs or just to have fun with Svelte. Currently learning this fairly new and 
+        fast language called Go because of it's specialty in web servers and CLI tools
       </p>
     </section>
     <section class="col-span-3 sm:col-span-1">
@@ -82,7 +82,7 @@
       </p>
       <ul>
         <li>
-          <strong>Blazor Server</strong>, database first project using EF, JavaScript, CRUD, MS Office interop, Payment Gateway, email, authentification and SQL Server.
+          <strong>Blazor Server</strong>, database first project using EF, JavaScript, CRUD, MS Office interop, Payment Gateway, email, credit check,  authentification and SQL Server.
         </li>
         <li>
           <strong>ASP.NET</strong>
@@ -94,7 +94,7 @@
         </li>
       </ul>
       <p>
-        Additionally in my spare time I write hobby applications with python and JavaScript/TypeScript. Some of these include web apps (Svelte), API's (FastAPI), web scrapers (Selenium, beautiful soup, puppeteer), etc. 
+        Additionally in my spare time I write hobby applications with python and JavaScript/TypeScript. Some of these include web apps (Svelte), API's (FastAPI, Gin, Express), web scrapers (Selenium, Playwright, beautiful soup, puppeteer), etc. 
       </p>
       <p>
         Every day I am learning new things about development, frameworks, tools that make me a better programmer and a better asset whenever I need to be.  

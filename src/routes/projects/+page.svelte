@@ -46,6 +46,8 @@
     });
   
     let sortOrder: "date" | "stars" = "date";
+
+    console.log(" Projects: ", projects)
   </script>
   
   <Seo
