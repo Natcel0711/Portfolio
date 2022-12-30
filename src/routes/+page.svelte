@@ -32,19 +32,19 @@
           >, ecommerce stores made in Blazor and Svelte Kit.
         </li>
         <li>
-          <Link to="https://github.com/Natcel0711/SvelteTailwind-Ecommerce"
-            ><strong>Svelte Kit Ecommerce Store</strong></Link
-          >, ecommerce store made in Svelte.
+          <Link to="https://github.com/Natcel0711?tab=repositories&q=svelte&type=&language=&sort="
+            ><strong>Svelte Kit</strong></Link
+          >, projects made in Svelte ft. JavaScript/TypeScript, PocketBase.
         </li>
         <li>
-          <Link to="https://github.com/Natcel0711/AutoMover"
-            ><strong>Python file organizer</strong></Link
-          >, automatic file organizer script.
+          <Link to="https://github.com/Natcel0711/GoPay"
+            ><strong>CLI tools</strong></Link
+          >, CLI tools for day to day stuff.
         </li>
         <li>
-          <Link to="https://github.com/Natcel0711/CsharpImageScraper"
+          <Link to="https://github.com/Natcel0711?tab=repositories&q=api&type=&language=&sort="
             ><strong>APIs</strong></Link
-          >, APIs that serves data from the Luma outages reports in Json format.
+          >, APIs that serves data, authenticates users.
         </li>
         <li>
           <Link to="https://github.com/Natcel0711/blazor"><strong>CRUD Apps</strong></Link>,

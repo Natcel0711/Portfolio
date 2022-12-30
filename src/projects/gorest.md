@@ -1,6 +1,6 @@
 ---
 title: GoRest - Simple user authentification API with Gin.
-date: 2022-09-18
+date: 2022-12-29
 repo: Natcel0711/gorest
 topics: ["Go", "API"]
 lead: GoRest.
