@@ -7,6 +7,6 @@ lead: GoSvite.
 image: gosvite.jpg
 ---
 
-`GoSvite` iis a web app built with Svelte, Go, TypeScript/JavaSCript.
+`GoSvite` is a web app built with Svelte, Go, TypeScript/JavaScript.
 
 **Links: [GitHub](https://github.com/Natcel0711/GoSvite)**
