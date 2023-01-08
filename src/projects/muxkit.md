@@ -7,6 +7,6 @@ lead: MuxKit.
 image: muxkit.png
 ---
 
-`MuxKit` is a utilities web app with a sveltekit frontend and a go backend.
+`MuxKit` is a utilities web server with a sveltekit frontend and a go backend.
 
 **Links: [GitHub](https://github.com/Natcel0711/muxkit)**
